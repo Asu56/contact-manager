@@ -1,0 +1,12 @@
+<div className="simpleAdder">
+    Contact add:
+    <input type="text" value={name} placeholder="Name" onChange={()}</div>></input>
+    <input type="text" value={mobile} placeholder="Mobile number"></input>
+    <input type="location" value={location} placeholder="Address"></input>
+    <button onClick={onClickHandler}>Click Me</button>
+
+
+</div>
+<>
+
+</>
